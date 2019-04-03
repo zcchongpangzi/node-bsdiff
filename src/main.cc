@@ -5,8 +5,8 @@
 #include <node.h>
 #include <node_buffer.h>
 
-#include <cmemory>
-#include <cstdlib>
+#include <memory.h>
+#include <stdlib.h>
 
 using namespace std;
 
